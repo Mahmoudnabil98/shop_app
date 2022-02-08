@@ -1,4 +1,4 @@
-# udemy_shop_app
+# shop_app
 
 A new Flutter project.
 
